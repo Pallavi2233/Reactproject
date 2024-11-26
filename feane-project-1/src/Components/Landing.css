@@ -1,0 +1,10 @@
+
+.landing-text{
+    z-index: 1;
+    font-size: 1vw;
+    width: 50vw;
+    /* height: 50vh; */
+    position: absolute;
+    top: 35%;
+    left: 10%;
+}

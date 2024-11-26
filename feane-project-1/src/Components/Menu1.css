@@ -1,0 +1,18 @@
+.element{
+    border-bottom-left-radius: 50px;
+    height: 210px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .head{
+     border-radius: 20%;
+  }
+  .item{
+    border-radius: 50px;
+  }
+  .cart{
+    float: right;
+    padding: 5px;
+    border-radius: 50%;
+  }
